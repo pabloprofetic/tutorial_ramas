@@ -1,12 +1,13 @@
 body {
-    background-color: #a0f0a0;
+    background-color: #04082b;
+    color: white;
 }
 #contenedor {
     width: 80%;
     border: 1px solid #a0b0a0;
     margin: 20px auto;
     padding: 0 17px;
-    background-color: white;
+    background-color: #0c2b02;
 }
 h2 {
     border-bottom: 1px solid #a0b0a0; 
